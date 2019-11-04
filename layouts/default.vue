@@ -1,7 +1,7 @@
 <template>
   <div>
     <nuxt />
-    <a id="github-btn" href="https://github.com/tampm92/tp-demo-nuxt-videojs" target="black"
+    <a id="github-btn" href="https://github.com/tampm92/tp-demo-nuxt-animejs" target="black"
       class="bg-gray-300 hover:bg-gray-600 p-2 rounded-full align-items-center items-center cent fixed bottom-2 right-2 cursor-pointer"
     >
       <svg class="w-10 h-10"
