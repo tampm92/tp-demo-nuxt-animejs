@@ -3,7 +3,7 @@
     <a class="flex items-center text-indigo-400 no-underline hover:no-underline font-bold text-2xl lg:text-4xl"
       href="/"
     >
-      <img id="tp-logo" src="/tp-100.png" alt="tp-logo" class="w-16 mr-2" />
+      <img id="tp-logo" src="~/assets/images/tp.svg" alt="tp-logo" class="w-24 mr-2" />
 
       <div class="site-title">
         <div id="tp-logo-text" class="site-title-text">
